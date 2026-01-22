@@ -47,7 +47,7 @@ Material:
     - _EnableFade: 0
     - _EnableFlash: 0
     - _EnableGlow: 0
-    - _EnableOutline: 1
+    - _EnableOutline: 0
     - _FadeMode: 0
     - _FadeSpeed: 0.1
     - _FlashSpeed: 10
